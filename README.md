@@ -10,6 +10,6 @@ This app is responsive for Mobile, Tablet And Desktop
 
 ## Resources & Credits
 
-Tailwind Library -> [daisyUI](https://daisyui.com/)
+Using Tailwind Css
 <br/>
 Icon -> [FontAwesome](https://fontawesome.com/)
